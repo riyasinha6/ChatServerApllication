@@ -1,5 +1,3 @@
-package chat.soumyadip.project;
-
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
